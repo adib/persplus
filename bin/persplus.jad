@@ -1,0 +1,6 @@
+MIDlet-1: PersonalityPlus, persplus.png, com.arcle.persplus.midp.Main
+MIDlet-Jar-Size: 18132
+MIDlet-Jar-URL: persplus.jar
+MIDlet-Name: PersonalityPlus
+MIDlet-Vendor: Arcle Technologies
+MIDlet-Version: 1.0
